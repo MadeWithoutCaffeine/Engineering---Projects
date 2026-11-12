@@ -44,7 +44,7 @@ I explored several bridge layouts with ChatGPT, then drew my own final design on
 
 ## Credits
 
-I made the majority of the design and reviewed the suggestions myself. ChatGPT helped with research, some measurements, and clearer printable blueprints from my drawings. My estimate of around 30% assistance is a personal estimate, not a measured work breakdown. Earlier generated bridge proposals and optimizer estimates do not describe a verified final design or tested capacity.
+I made the majority of the design and reviewed the suggestions myself. ChatGPT helped with research, some measurements, and clearer printable blueprints from my drawings. I'd estimate that help at around 30% of the project. I checked the suggestions myself; the bridge's strength still needs to be measured through physical testing.
 
 ---
 

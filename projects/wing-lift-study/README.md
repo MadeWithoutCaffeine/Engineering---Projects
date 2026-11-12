@@ -2,7 +2,7 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
-In eighth grade, I investigated how the shape of an airplane wing affects its lift. This science fair project connects my interest in aircraft with my interest in testing how designs behave.
+In eighth grade, I investigated how airplane-wing shape affects lift. It was a chance to take my interest in aircraft and turn it into a science fair experiment.
 
 ## At a glance
 

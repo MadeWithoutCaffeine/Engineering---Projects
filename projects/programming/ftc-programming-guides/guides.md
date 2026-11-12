@@ -27,4 +27,4 @@ SDK examples use Java and the FTC SDK only. Pedro lessons use the Pedro 3 API li
 
 ## Prefer pictures?
 
-Each lesson now includes a Blocks-style image. The [picture guide](blocks.md) collects all twelve visuals, and the [example index](examples/README.md#blocks-style-pictures) pairs the eight Java files with their pictures. Pedro diagrams explain the Java workflow rather than suggesting native Blocks support.
+Each lesson includes a Blocks-style image. The [picture guide](blocks.md) collects all twelve visuals, and the [example index](examples/README.md#blocks-style-pictures) pairs the eight Java files with their pictures. Pedro diagrams explain the Java workflow rather than suggesting native Blocks support.

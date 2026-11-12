@@ -2,7 +2,7 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
-*Based on my updated October 30, 2026 outline. Results are pending.*
+*Build account updated October 30, 2026. Testing results are still pending.*
 
 ## 1. How I learned about the competition
 
@@ -20,7 +20,7 @@ I understood that balance going into the project, but time complications meant I
 
 I went through many designs before deciding what to build. Early on, I used ChatGPT to help me research shapes found in nature, including triangles and hexagons, and explore which arrangements might work well for a lightweight bridge. I wanted to understand how the shape of a structure affects its strength and how that could apply to my own design.
 
-The saved planning discussions also explored paired side trusses, a Pratt-style option, and an 18-inch braced queen-post proposal. Those were ideas to consider, rather than a record of exactly what I eventually built.
+I also considered paired side trusses, a Pratt-style option, and an 18-inch braced queen-post proposal before choosing the final design.
 
 ## 4. Visualizing the options and recognizing my limits
 
@@ -36,7 +36,7 @@ I initially designed the final bridge on paper. I drew it out myself, worked out
 
 Once I had my drawings, I uploaded them to ChatGPT and asked it to clean them up into blueprints that I could follow. I wanted something I could print out and keep in front of me while building. I also asked it to check whether anything in my drawings did not make sense, might lead to a penalty, or did not follow the competition guidelines. That was a review I requested, rather than confirmation that the bridge had passed an official inspection.
 
-I want to be open about the help I received. My own rough estimate is that ChatGPT assisted with around 30% of the project, including the research, some measurements, and preparing clearer blueprints from my drawings. That is an estimate, not a measured breakdown of the work. I triple-checked everything myself. The majority of the design was made by me, and I was responsible for reviewing the suggestions and deciding what to use. My checks do not replace the competition's official inspection or physical testing.
+I'd estimate ChatGPT's help at around 30% of the project, mainly research, some measurements, and preparing clearer blueprints. I made most of the design myself and triple-checked the suggestions before deciding what to use. The finished bridge still needs official inspection and testing.
 
 ## 5. Preparing materials and starting construction
 
@@ -48,7 +48,7 @@ The photos of the build cover roughly four to four and a half days, from startin
 
 I troubleshot ideas with ChatGPT and went back and forth for a while until I settled on an initial design. As I started planning it out roughly, I realized that its structural concept was still untested. Without extra materials, I could not try out the additional joints or see how the different parts would work together.
 
-I was also unfamiliar with the competition rules and how quickly I needed to finish. Given those time constraints, I decided against taking that risk this year. I chose a simpler design that I felt was more likely to pass the requirements. That was my judgment at the time, not a confirmed inspection result. One of the most important changes was putting more emphasis on a very strong base. That became a priority in my design, although I will not know how well it worked until the bridge is tested.
+I was also unfamiliar with the competition rules and how quickly I needed to finish. Given those time constraints, I decided against taking that risk this year. I chose a simpler design that I felt was more likely to pass the requirements. I put more emphasis on a strong base, though I won't know how well that choice worked until testing.
 
 I did not push the strength-to-weight balance as far as I wanted this year. I was working with limited time and without spare material for experiments, so I had to make decisions without first testing every connection or member size. Next year, I want to prepare earlier and use testing to make those decisions more carefully.
 

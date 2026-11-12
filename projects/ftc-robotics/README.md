@@ -2,7 +2,7 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
-On the LEOPOLD Gear Heads, I connect programming, CAD, and manufacturing to help turn our robot ideas into working mechanisms.
+I'm the programmer and primary CAD designer for the LEOPOLD Gear Heads. I also handle 3D printing and custom-part production for our robot.
 
 ## At a glance
 
@@ -11,13 +11,17 @@ On the LEOPOLD Gear Heads, I connect programming, CAD, and manufacturing to help
 | Status | Ongoing team work |
 | Team | LEOPOLD Gear Heads · FTC 3665 |
 | My role | Sole programmer, primary CAD designer, and person responsible for 3D printing and custom-part production |
-| Tools | Autodesk Inventor, FTC programming tools, and Bambu Lab P1S with AMS 2 Pro |
+| Tools | Autodesk Inventor, FTC programming tools, and Bambu Lab printers |
 
 ## My contribution
 
 I develop and maintain the robot controls, design custom parts and assemblies in Inventor, and handle printing and part production. I also contribute to assembly and troubleshooting.
 
-Working across these areas means checking how the design, manufactured parts, and software work together. I help teammates learn parts of the process so more people can contribute to the technical work.
+I work on how the parts fit and how the code controls them, then help troubleshoot the assembled robot. I also teach teammates parts of the process.
+
+## 3D printing and helping other students
+
+I donated my Bambu Lab P1S to my school so other students could use it and learn to make their own designs. At home, I now use a Bambu Lab P2S with an AMS 2 Pro. I want more students to have the tools and confidence to become creators themselves.
 
 ## Project guide
 

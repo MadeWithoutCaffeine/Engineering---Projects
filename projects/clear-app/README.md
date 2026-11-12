@@ -35,7 +35,7 @@ The web version is in use, and the connected workspace supports several types of
 
 Three read-only checks are recorded in the [results page](results.md): ledger arithmetic, workspace read consistency, and health record structure.
 
-The [media page](photos.md) links the reviewed Website Version and Mobile Version images. Edited copies hide private record content. All 12 images are hosted directly in the repository; the live workspace and application source are not included.
+The [screenshots](photos.md) show the website on desktop and mobile. All 12 images are hosted here, with private record content blurred. I keep the live workspace and application source private.
 
 ## Next steps
 
@@ -48,7 +48,7 @@ The [media page](photos.md) links the reviewed Website Version and Mobile Versio
 
 ## Credits
 
-I chose the purpose, features, and direction of Clear around my own needs. ChatGPT Sites provides hosting, and ChatGPT is part of the connected workflows and helped organize this write-up. Detailed code contributions will be documented after reviewing the development history.
+I chose the purpose and features around what I needed in daily use. Clear is hosted through ChatGPT Sites, and ChatGPT helps with connected workflows and this write-up. I still need to review the development history before giving a detailed breakdown of the code contributions.
 
 ---
 

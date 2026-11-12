@@ -14,8 +14,8 @@ This is a written reference and set of teaching examples. It does not yet docume
 | Project navigation, relative file links, and guide order | Checked before publication |
 | Pedro API names and constructor order | Compared with current official docs and inspected upstream source |
 | Robot-specific motor directions, servo range, and localization calibration | Must be configured on the actual robot |
-| Android Studio build against the listed dependencies | Not performed in this session |
-| Physical movement, STOP behavior, tracking accuracy, and repeatability | Not tested in this session |
+| Android Studio build against the listed dependencies | Not yet performed |
+| Physical movement, STOP behavior, tracking accuracy, and repeatability | Not yet tested |
 
 ## Robot verification sequence
 

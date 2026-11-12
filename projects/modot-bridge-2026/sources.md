@@ -4,7 +4,7 @@
 
 ## Source of the project story
 
-This project follows Michael's updated first-person outline, revision 3, dated October 30, 2026. Personal recollections—including the construction window and approximate amount of AI assistance—are identified as estimates. Earlier proposed trusses and optimizer figures are planning history, not specifications of the finished bridge.
+I wrote this account from my notes and recollection of the build. The construction time and amount of ChatGPT assistance are rough estimates. The earlier truss ideas and optimizer figures were part of planning; measured results will come from testing the finished bridge.
 
 ## Official competition references
 
@@ -26,7 +26,7 @@ I am a junior with mechanical/aerospace interests. Being a senior next year woul
 - [ ] Which planning tools influenced the final bridge.
 - [ ] Specific changes that strengthened the base.
 - [ ] Original paper drawings alongside their matching cleaned-up blueprints.
-- [ ] Confirmed photo captions and descriptions of both videos.
+- [ ] Confirmed photo captions and any future testing-video descriptions.
 - [ ] Measured test results and post-test reflections.
 
 ## Media ordering

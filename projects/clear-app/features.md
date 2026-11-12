@@ -17,7 +17,7 @@
 | Mail previews | Review imported inbox summaries |
 | Assistant connection | Read and update supported records through conversation |
 
-This describes the supported areas, rather than a completed test of every screen and workflow.
+These are Clear's supported areas. I still need to test every screen and workflow.
 
 ## Example workflows
 
@@ -37,4 +37,4 @@ Sources also need to update independently. If one is unavailable, existing recor
 
 The connected workflows run outside Clear. They do not establish that the website maintains continuous direct connections to every source.
 
-Saving a reminder does not establish notification delivery. Saving an event does not establish two-way calendar syncing. A stored wellness check-in does not establish a continuous connection to a device's health database.
+I still need to verify notification delivery, two-way calendar syncing, and continuous health-data updates. Being able to save a record doesn't confirm those connections work.

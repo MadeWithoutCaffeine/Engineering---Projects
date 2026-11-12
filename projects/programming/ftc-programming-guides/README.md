@@ -31,7 +31,7 @@ As the programmer for FTC team 3665, I wanted a place to keep useful coding expl
 
 ## Approach
 
-Each subject includes a Blocks-style logic picture and answers a practical question, lists what you need, walks through the steps, and explains what to look for when testing. Start with [setup](01-setup.md), then [telemetry](02-telemetry.md). If you already have working Java code, choose a subject from the guide index.
+Each guide has a question, setup requirements, steps, a Blocks-style illustration, and a suggested test. Start with [setup](01-setup.md), then [telemetry](02-telemetry.md). If you already have working Java code, choose a subject from the guide index.
 
 ## Use this collection
 
@@ -55,4 +55,4 @@ Examples have not yet been compiled or run on a physical robot. Motor directions
 
 ## Credits
 
-ChatGPT drafted this reference and its example code at my request. FIRST, REV Robotics, and Pedro Pathing provide the APIs and documentation linked in [Sources](sources.md). The collection does not claim that I independently wrote or competition-tested these examples. Repository documentation licensing does not replace third-party library licenses.
+I asked ChatGPT to draft these guides and examples around the topics I wanted to teach. They use the FIRST, REV Robotics, and Pedro Pathing references linked in [Sources](sources.md). The examples still need compilation and robot testing before I can report how they perform. Third-party libraries keep their own licenses.

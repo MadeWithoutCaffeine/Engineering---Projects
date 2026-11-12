@@ -35,7 +35,7 @@ Documentation and upstream source were checked on November 1, 2026. The lessons 
 
 The Pedro example uses the Pedro 3 API. Examples for older versions may use different packages, constructors, and method names. Recheck dependencies before upgrading.
 
-Michael requested and directed this collection. ChatGPT drafted the explanations and example code, with references to the sources above. These files are teaching examples; they are not presented as Michael's independently authored competition code or as tested team results.
+I chose the topics and asked ChatGPT to draft the explanations and example code using the references above. These are teaching examples that still need compilation and robot testing. My competition code is separate from this collection.
 
 The repository's [license](../../../LICENSE) covers its original documentation subject to third-party terms. FIRST's SDK, Pedro Pathing, REV materials, and other dependencies retain their own licenses and attribution requirements. No third-party project or library source distribution is included in this folder.
 

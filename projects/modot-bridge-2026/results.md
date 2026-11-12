@@ -4,9 +4,9 @@
 
 **Construction is complete. Inspection, measured performance, and placing are pending.**
 
-## Scheduled event
+## Announced competition event
 
-Thursday, **November 5, 2026**, at Southeast Missouri State University's Academic Hall, 900 Normal Avenue, Cape Girardeau, Missouri. The event begins at **9:00 a.m. Central**; this is not a guaranteed individual test time for my bridge.
+The competition was announced for Thursday, **November 5, 2026**, at Southeast Missouri State University's Academic Hall, 900 Normal Avenue, Cape Girardeau, Missouri. The published start time was **9:00 a.m. Central**. I have not added my individual testing results here yet.
 
 Sources: [MoDOT 2026 announcement](https://www.modot.org/node/96071) · [Competition page and start time](https://www.modot.org/bridge-competition). Checked October 30, 2026.
 
@@ -29,4 +29,3 @@ Sources: [MoDOT 2026 announcement](https://www.modot.org/node/96071) · [Competi
 ## Test media
 
 No competition photos or testing videos have been published. The [Videos page](videos.md) is reserved for future test footage.
-

@@ -20,7 +20,7 @@ I checked existing records through the connected Clear interface. No records wer
 | Workspace read consistency | Read the workspace twice, sort each response by record ID, and compare the complete records | Passed: the two responses were identical, including existing fields and completion states |
 | Health record structure | Inspect saved check-ins for valid YYYY-MM-DD date format, unique dates, nonempty source labels, and explicit nulls for unavailable measurements | Passed for the returned records: date-format, uniqueness, and source checks passed; unavailable fields were represented as null |
 
-These checks cover the records returned during this session. They do not prove that writes preserve fields, imports prevent duplicates, readings are medically accurate, notifications arrive, or background sync works. No account-isolation or iPhone UI test was performed. The health check validates date format, not every possible calendar-date edge case.
+These checks cover only the records returned on October 31, 2026. They do not prove that writes preserve fields, imports prevent duplicates, readings are medically accurate, notifications arrive, or background sync works. No account-isolation or iPhone UI test was performed. The health check validates date format, not every possible calendar-date edge case.
 
 ## Checks still to complete
 
@@ -47,4 +47,4 @@ These are planned checks, not completed test results.
 
 ## Media
 
-The [pictures and media page](photos.md) now links reviewed desktop and mobile website views. Personal record content is blurred in edited copies. All 12 reviewed images are now hosted in the repository and can be viewed without a ChatGPT account.
+The [screenshots](photos.md) show desktop and mobile website views, with personal record content blurred. All 12 images can be viewed here without a ChatGPT account.

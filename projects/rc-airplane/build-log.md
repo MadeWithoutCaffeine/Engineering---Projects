@@ -16,9 +16,9 @@ My original goal was to design and fly an airplane completely from scratch. Afte
 
 That led me to [Eclipson](https://www.eclipson-airplanes.com/), a company that sells downloadable designs for 3D-printed model airplanes. I spent roughly two weeks researching the components, electronics, materials, and other considerations involved in building one of their models. By mid-February 2026, I had chosen the **Eclipson Vortex** and purchased its design files.
 
-From there, I worked on the project gradually, experimenting with printing materials, learning about electronics and mechanical control systems, and figuring out how the components fit together. For me, the project became as much about learning the engineering process as it was about eventually flying the airplane.
+I worked on it gradually, trying printing materials, learning about the electronics and controls, and figuring out how the parts fit together.
 
-**Design credit:** The Vortex aircraft design and supplied CAD/3D-print files were created by Eclipson, **not by me**. My work on this project is the research, material experimentation, printing, hardware selection, integration, assembly, and documentation of my own build. You can explore Eclipson's aircraft designs on [their website](https://www.eclipson-airplanes.com/).
+**Design credit:** [Eclipson](https://www.eclipson-airplanes.com/) designed the Vortex and supplied the CAD and printing files. My work is researching components, trying materials, printing, assembly, and setting up the electronics.
 
 ## April 22–May 29, 2026: Printing and assembly
 

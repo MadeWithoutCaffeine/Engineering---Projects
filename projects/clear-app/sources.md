@@ -4,7 +4,7 @@
 
 ## Technical documentation
 
-Clear is a hosted web application with a connected assistant interface. The application files have not been reviewed for this portfolio, so the framework, storage implementation, and setup instructions are not documented here yet.
+Clear is a hosted web app with a connected assistant interface. I haven't completed a source review for this portfolio, so I haven't documented its framework, storage, or setup instructions yet.
 
 A future source guide should explain the interface, record handling, account access, and import behavior using reviewed implementation excerpts. The public portfolio does not include the live app address, private endpoints, deployment identifiers, credentials, or workspace exports.
 

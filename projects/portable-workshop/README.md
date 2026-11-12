@@ -1,45 +1,60 @@
 # Portable Workshop Design
 
-[All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Design log](design-log.md) · [Current CAD](#current-cad-model) · [Printing setup](#printing-and-computer-setup) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
-I’m designing a separate workshop with space for hands-on projects and a PC desk. I want a practical workspace that is easy to clean, comfortable to use, and designed with moving it in mind.
+I'm designing a portable workshop with an open main workspace and an office that can open or close with a sliding door. I'm working through it in Autodesk Inventor so I can see how the space and framing fit together before spending money on the build.
 
 ## At a glance
 
 | Field | Details |
 | --- | --- |
-| Status | Design in progress |
-| Focus | Workspace layout, CAD, roof geometry, and separation of the desk from dusty work |
-| My role | Layout planning and CAD design |
-| Tools | Autodesk Inventor, sketches, and roof-layout calculations |
+| Status | Design in progress · not built |
+| Design update | November 12, 2026 |
+| Goal | A separate space for my tools, 3D printing, CAD, programming, and projects |
+| My role | Dimensions, layout, frame design, roof geometry, portability planning, and CAD modeling |
+| Tools | Autodesk Inventor, sketches, and independent research |
 
-## Background
+## Project guide
 
-My projects involve CAD, 3D printing, assembly, and other hands-on work. I want a dedicated place for that work, with a desk area that can close off from the workshop.
+| Section | What you'll find |
+| --- | --- |
+| [Design log](design-log.md) | How I've rethought the design and what still needs work |
+| [Current CAD model](#current-cad-model) | A photo of the unfinished framing model |
+| [Printing and computer setup](#printing-and-computer-setup) | Equipment I use now and what I want to move into the workshop |
 
-## Design priorities
+## Why I want the workshop
 
-- A continuous work surface, with a lower section at desk height for the PC.
-- A small partition and sliding door to separate the desk nook from the workshop.
-- A simple layout with room to move and clean around the workbench.
-- Weather sealing, insulation, and space for heating and cooling.
-- A sturdy structure that can be moved when needed.
+I currently share an office at home with three other family members. Between everyone's belongings and equipment, it gets difficult to find enough room for my own work and projects. I want a separate space that I can organize around the things I do, with somewhere to keep my tools, printers, and projects between work sessions.
 
-The dimensions and opening locations are still part of the design process. I have explored more than one footprint, so the early layout sketches are not a final construction plan.
+The main workspace will stay open so I can use the floor space efficiently and arrange the work surfaces around my needs. A sliding door will let me close off the office when I want a separate place to work, or leave it open to the rest of the workshop.
 
-## Current status
+## Current CAD model
 
-I have worked on the layout and an initial roof assembly in Autodesk Inventor. The roof work includes studying how the rafter cuts meet the supporting members and how the framing fits together.
+![Unfinished Autodesk Inventor workshop model showing floor and wall framing, door and window openings, and a roof assembly displayed above the walls](media/photos/IMG_3076.jpeg)
 
-This is a design project in progress. Structural sizing, connections, and construction details still need to be resolved before building.
+*Current design shared November 12, 2026. The roof assembly is shown above the walls so the framing is easier to see. This revision is unfinished and still needs adjustments.*
+
+I've rethought the geometry and framing many times while researching how the pieces should fit together. I'm also working through heating systems, insulation, doors, and windows as part of the overall design. The dimensions, frame design, and approach to portability are my own.
+
+CAD gives me a way to check the vision before committing money to materials. It also makes it easier to spot conflicts and change the design while it is still a model. The framing, connections, and other construction details still need work before I can build it.
+
+## Printing and computer setup
+
+I donated my Bambu Lab P1S to my school so other students could use it, learn to make things, and become creators themselves. At home, I now use a **Bambu Lab P2S with an AMS 2 Pro**.
+
+I want to move my 3D-printing equipment into the workshop and build a filament dryer for long-term use. Keeping electricity use low is one of the main goals for that dryer. Its design and actual power use still need to be worked out.
+
+For the office, I'm considering either moving my current desktop setup or building another computer for CAD, programming, and project work. I haven't decided which option makes more sense yet.
 
 ## Next steps
 
-- Settle the overall dimensions and interior layout.
-- Refine the roof assembly and check how the parts fit.
-- Work through the structure, weather protection, and utilities.
-- Develop a materials list and cost estimate from the selected design.
+- Refine the framing and roof geometry in Inventor.
+- Check the overall dimensions, door and window openings, and sliding-door office layout.
+- Work through heating, cooling, insulation, and weather sealing.
+- Refine the base, connections, and plan for moving the finished workshop.
+- Plan the printing area and filament dryer.
+- Develop a materials list and cost estimate before buying supplies.
 
 ## Credits
 
-The layout goals and CAD work are mine. ChatGPT helped explore layout ideas, roof geometry, and ways to explain the design.
+ChatGPT helped provide example images during the early planning. I ended up doing more research myself and rethinking the geometry and framing many times. The dimensions, frame design, portability plan, and CAD model are my work. I'm also researching the heating systems, insulation, doors, and windows to make the workshop suit my needs.

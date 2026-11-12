@@ -25,6 +25,6 @@ I still have the A770 on hand, so I have not subtracted a resale value from the 
 
 ## What I learned
 
-The research was a major part of this project. I had to consider the whole system: a part could look good by itself but still affect the budget, physical layout, cooling, or compatibility of the build. Assembling and using the PC gave me a practical way to connect that research to real hardware.
+The compact case made me think carefully about fit and cooling as well as performance. Comparing individual parts was only the start; I had to make sure the whole system would fit together and stay within my budget.
 
 See the [photos](photos.md), [cost breakdown](parts-and-costs.md), and [purchase records](receipts.md) for the supporting material.

@@ -1,15 +1,15 @@
 # Project Ideas and Planning
 
-[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Filament dryer](#filament-dryer) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
-Rough ideas for projects I would like to explore, bringing together my interests in engineering, aerospace, programming, and photography.
+Ideas I want to keep track of and develop as I have the time, tools, and budget.
 
 ## At a glance
 
 | Field | Details |
 | --- | --- |
 | Status | Early concepts · designs and testing still ahead |
-| Notes updated | November 1, 2026 |
+| Notes updated | November 12, 2026 |
 | Goal | Keep track of possible projects and what I want to learn from them. |
 | My intended role | Design, fabrication, programming, testing, and documentation as needed. |
 
@@ -22,6 +22,7 @@ Rough ideas for projects I would like to explore, bringing together my interests
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
 | [Lightweight FPV drone](#lightweight-fpv-drone) | Explore a low-cost, lightweight 21700-powered drone focused on flight efficiency. |
 | [Blowdart target-shooting concept](#blowdart-target-shooting-concept) | An early interest in a metal-dart blowgun for controlled target shooting. |
+| [Filament dryer](#filament-dryer) | Plan a dryer for long-term workshop use with low electricity consumption. |
 | [Level 1 rocketry certification](rocketry-l1.md) | Research NAR and Tripoli routes, find a mentor, and plan a certification attempt. |
 
 ## Background
@@ -96,6 +97,12 @@ I would like to begin after this school year and work on it slowly through gradu
 
 I’m interested in exploring a metal blowdart shooter as a future project. I would like to start with homemade prototypes and potentially explore a compressed-air version, with the goal of accurately hitting stationary targets at a distance. For now, this is just an idea; the design, feasibility, and suitable testing arrangements are still undecided.
 
+## Filament dryer
+
+I want to build a filament dryer for long-term use in my [planned workshop](../portable-workshop/README.md). I use a Bambu Lab P2S with an AMS 2 Pro at home, and I want to keep the printer, filament, and supplies together in the new space.
+
+Electricity use is a main design goal. I still need to decide the capacity, insulation, heating and controls, and how I would measure drying performance and power use. This is an early idea; I haven't built or tested it yet.
+
 ## Level 1 rocketry certification
 
 I want to research and work toward Level 1 high-power rocketry certification. The first steps would be finding a club, comparing NAR and Tripoli, and deciding whether to use a junior program or prepare for adult certification after 18. From there, I would choose a rocket, build it with guidance, and arrange a certification flight.
@@ -111,4 +118,4 @@ I want to research and work toward Level 1 high-power rocketry certification. Th
 
 ## Credits
 
-These notes reflect my interests and intended projects. ChatGPT helped brainstorm and organize the rough concepts; detailed designs and testing remain future work.
+These are projects I want to try. ChatGPT helped brainstorm and organize some of the early notes. I still need to develop and test the designs.
