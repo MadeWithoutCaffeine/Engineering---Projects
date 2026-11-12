@@ -1,6 +1,6 @@
 # FTC Programming Guides
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 A practical FTC Java reference for setting up a robot, understanding its code, and building toward autonomous path following. Pick a subject, follow the steps, then try the matching example.
 
@@ -45,7 +45,7 @@ The files here are source examples; this folder is not a complete Android Studio
 
 ## Results and limits
 
-Examples have not yet been compiled or run on a physical robot. Motor directions, servo travel, odometry settings, and tuning values must come from the actual robot. See [Results](results.md) for the verification scope.
+All eight examples passed host-side compilation with test doubles and 15 control-flow checks. An Android Studio build with the actual FTC/Pedro dependencies and physical robot tests are still pending. Motor directions, servo travel, odometry settings, and tuning values must come from the actual robot. See [Results](results.md) for the verification scope.
 
 ## Next steps
 
@@ -55,4 +55,4 @@ Examples have not yet been compiled or run on a physical robot. Motor directions
 
 ## Credits
 
-I asked ChatGPT to draft these guides and examples around the topics I wanted to teach. They use the FIRST, REV Robotics, and Pedro Pathing references linked in [Sources](sources.md). The examples still need compilation and robot testing before I can report how they perform. Third-party libraries keep their own licenses.
+I asked ChatGPT to draft these guides and examples around the topics I wanted to teach. They use the FIRST, REV Robotics, and Pedro Pathing references linked in [Sources](sources.md). The examples still need an actual FTC SDK build and robot testing before I can report how they perform on hardware. Third-party libraries keep their own licenses.

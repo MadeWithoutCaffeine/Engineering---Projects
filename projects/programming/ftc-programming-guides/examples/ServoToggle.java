@@ -18,11 +18,14 @@ public class ServoToggle extends LinearOpMode {
         if (isStopRequested()) return;
         boolean open = false;
         boolean previousA = gamepad1.a;
+        claw.setPosition(CLOSED);
         while (opModeIsActive()) {
             boolean aNow = gamepad1.a;
-            if (aNow && !previousA) open = !open;
+            if (aNow && !previousA) {
+                open = !open;
+                claw.setPosition(open ? OPEN : CLOSED);
+            }
             previousA = aNow;
-            claw.setPosition(open ? OPEN : CLOSED);
             telemetry.addData("Claw command", open ? "OPEN" : "CLOSED");
             telemetry.addData("Position command", open ? OPEN : CLOSED);
             telemetry.update();

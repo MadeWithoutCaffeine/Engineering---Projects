@@ -1,6 +1,6 @@
 # Clear — Your Everyday Space
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Screenshots](photos.md) · [Desktop view](photos.md#website-version) · [Mobile view](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Screenshots](photos.md) · [Desktop view](photos.md#website-version) · [Mobile view](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 A personal web app I created to bring everyday information into one workspace and reduce the need to switch between apps.
 
@@ -52,4 +52,4 @@ I chose the purpose and features around what I needed in daily use. Clear is hos
 
 ---
 
-[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)

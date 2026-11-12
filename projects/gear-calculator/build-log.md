@@ -1,10 +1,10 @@
 # Gear Calculator — Build Story
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 In late September 2026, my Principles of Engineering class at CTC got me interested in gear ratios and how they affect torque and speed. I wanted to understand what happens when you change gear sizes or connect several gears together, so I thought a simple calculator would be a fun project.
 
-I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. I made this project by hand without AI, using Google and Reddit discussions for coding questions and equations.
+I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. I made the original version by hand without AI, using Google and Reddit discussions for coding questions and equations.
 
 ## The idea
 

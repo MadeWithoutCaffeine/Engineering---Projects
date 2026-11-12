@@ -1,6 +1,6 @@
 # FTC Programming — Java Examples
 
-[All projects](../../../../README.md) · [Project home](../README.md) · [Guides](../guides.md) · [Examples](README.md) · [Blocks illustrations](../blocks.md) · [Results](../results.md) · [Sources](../sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../../README.md) · [Project home](../README.md) · [Guides](../guides.md) · [Examples](README.md) · [Blocks illustrations](../blocks.md) · [Results](../results.md) · [Sources](../sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 These are complete teaching OpModes, not a standalone robot application. Copy the selected file into `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/` in your FTC Android Studio project. Keep the package line, imports, filename, and public class name together. Deploy from Android Studio, then select the listed OpMode on the Driver Station.
 
@@ -29,7 +29,7 @@ For an SDK-only project, copy only SDK examples. Adding PedroFirstPath without i
 4. Run the lesson's expected-result check.
 5. Add one feature at a time, with telemetry showing its input and output.
 
-Examples have not been compiled or robot-tested in this session. See [Results](../results.md).
+All eight examples passed a host-side compile with test doubles and 15 control-flow checks on November 12, 2026. This is not a build against the real FTC SDK or a physical robot test. See [Results](../results.md).
 
 ## Blocks-style pictures
 

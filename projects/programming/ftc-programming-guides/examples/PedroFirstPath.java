@@ -36,10 +36,11 @@ public class PedroFirstPath extends LinearOpMode {
             timer.reset();
             while (opModeIsActive()) {
                 follower.update();
-                telemetry.addData("X (in)", "%.2f", follower.pose().x());
-                telemetry.addData("Y (in)", "%.2f", follower.pose().y());
+                Pose currentPose = follower.pose();
+                telemetry.addData("X (in)", "%.2f", currentPose.x());
+                telemetry.addData("Y (in)", "%.2f", currentPose.y());
                 telemetry.addData("Heading (deg)", "%.1f",
-                        Math.toDegrees(follower.pose().heading()));
+                        Math.toDegrees(currentPose.heading()));
                 telemetry.addData("Mode", follower.mode());
                 telemetry.addData("Busy", follower.isBusy());
                 telemetry.update();
@@ -50,9 +51,12 @@ public class PedroFirstPath extends LinearOpMode {
                     (follower.isBusy() ? "Timeout" : "Follower reports complete"));
             telemetry.update();
         } finally {
-            // stop() sets IDLE; update() applies that mode to the drivetrain.
-            follower.stop();
-            follower.update();
+            // Stop the drivetrain directly even if localization/update has failed.
+            try {
+                follower.stop();
+            } finally {
+                follower.drivetrain.stop();
+            }
         }
         while (opModeIsActive()) idle();
     }

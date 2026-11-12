@@ -1,6 +1,6 @@
 # Custom PC Build — Receipts
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 These reviewed purchase screenshots support the dates and totals in [Parts and actual costs](parts-and-costs.md). Personal information has been blurred where identified. Purchase and delivery dates shown in the screenshots are not image capture or installation dates. Click any image or its link to open it.
 

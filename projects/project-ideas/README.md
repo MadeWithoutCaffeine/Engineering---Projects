@@ -1,6 +1,6 @@
 # Project Ideas and Planning
 
-[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Filament dryer](#filament-dryer) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Filament dryer](#filament-dryer) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 Ideas I want to keep track of and develop as I have the time, tools, and budget.
 

@@ -1,6 +1,6 @@
 # Gear Calculator — Sources
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 These are further-reading links checked on October 31, 2026, not a record of websites used during an earlier build.
 
@@ -8,6 +8,10 @@ These are further-reading links checked on October 31, 2026, not a record of web
 | --- | --- |
 | [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Arrays) | Keeping gear sizes and connections in lists |
 | [MDN: Looping code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops) | Working through the gear connections in order |
+
+## Maintenance credit
+
+I built the original version without AI. ChatGPT assisted with the November 12 validation changes and automated tests. The original design and the later maintenance are described separately in the [build story](build-log.md) and [project overview](README.md).
 
 ## Assumptions
 

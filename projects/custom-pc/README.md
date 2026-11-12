@@ -1,6 +1,6 @@
 # Custom PC Build
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 I researched and built a compact desktop PC to learn how the hardware and software work together. It started with an Intel Arc A770, and I later upgraded to an RTX 3080 while keeping the original card.
 
@@ -47,4 +47,4 @@ I researched the parts and assembled the PC. ChatGPT helped organize this write-
 
 ---
 
-[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)

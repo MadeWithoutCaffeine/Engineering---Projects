@@ -1,6 +1,6 @@
 # Airplane Wing Shape and Lift
 
-[All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 In eighth grade, I investigated how airplane-wing shape affects lift. It was a chance to take my interest in aircraft and turn it into a science fair experiment.
 
@@ -21,7 +21,7 @@ I wanted to investigate a question about flight. I presented the project at my l
 
 My portfolio includes the Naval Science Award certificate, medal, and letter, along with my other science fair recognition.
 
-[View the award record](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio/blob/main/awards/README.md#science-and-engineering) · [Browse the award photographs](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio/blob/main/awards/README.md#award-photo-gallery)
+[View the award record](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio/blob/main/awards/README.md#science-and-engineering) · [Browse the award photographs](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio/blob/main/awards/README.md#award-photo-gallery)
 
 This is a retrospective overview. It does not report a winning wing shape or measured lift values.
 

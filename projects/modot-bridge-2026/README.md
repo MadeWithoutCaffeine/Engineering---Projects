@@ -1,6 +1,6 @@
 # MoDOT Bridge — 2026
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 My first MoDOT bridge competition: researching designs, drawing my own plans, and building a balsa bridge under time and material constraints.
 
@@ -48,4 +48,4 @@ I made the majority of the design and reviewed the suggestions myself. ChatGPT h
 
 ---
 
-[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)

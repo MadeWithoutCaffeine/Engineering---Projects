@@ -1,6 +1,6 @@
 # Gear Ratio and Torque Calculator
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 A small calculator for trying gear combinations and seeing how they change torque, speed, and direction.
 
@@ -9,7 +9,7 @@ A small calculator for trying gear combinations and seeing how they change torqu
 | Field | Details |
 | --- | --- |
 | Status | Working · calculation checks passed |
-| Project updated | October 31, 2026 |
+| Project updated | November 12, 2026 |
 | Goal | Explore the gear ratios covered in Principles of Engineering at CTC. |
 | My role | HTML, CSS, JavaScript, and calculations; Google and Reddit for coding and math help. |
 
@@ -18,7 +18,7 @@ A small calculator for trying gear combinations and seeing how they change torqu
 | Section | What you'll find |
 | --- | --- |
 | [Story](build-log.md) | Why I built the calculator and what I learned |
-| [Code illustrations](photos.md) | Code illustrations made from the current source |
+| [Code illustrations](photos.md) | Code excerpts rendered from the October 31 version |
 | [Results](results.md) | Calculation checks, assumptions, and physical testing still to do |
 | [Sources](sources.md) | Equation references and coding resources |
 
@@ -43,8 +43,8 @@ The calculator handles two to nine gears using tooth counts or pitch diameters. 
 
 ## Credits
 
-A project I put together in my own time to explore gear ratios, torque, and speed. I only used Google and Reddit posts for coding help and math equations for this project.
+I built the original calculator myself, using Google and Reddit for coding questions and equations. On November 12, 2026, ChatGPT helped audit the code, add input and numerical-range checks, and expand the automated tests. The basic interface and gear-train model are unchanged.
 
 ---
 
-[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)

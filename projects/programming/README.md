@@ -1,6 +1,6 @@
 # Programming Projects
 
-[All projects](../../README.md) · [Programming projects](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Programming projects](README.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 Choose a software project or a practical coding reference.
 

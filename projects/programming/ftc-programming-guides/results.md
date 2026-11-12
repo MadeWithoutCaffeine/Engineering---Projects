@@ -1,8 +1,10 @@
 # FTC Programming — Results and Limits
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 ## Review scope
+
+On November 12, 2026, all eight Java files compiled with small host-side test doubles and passed 15 control-flow assertions. Those tests cover button edges, command counts, STOP before servo motion, motor cleanup, normalized drive power, encoder completion/timeout, IMU reset edges, state transitions, missing Pedro setup, path completion/timeout, pose sampling, and cleanup after a simulated localization exception. Test doubles do not establish actual SDK compatibility or physical behavior.
 
 This is a written reference and set of teaching examples. It does not yet document physical robot results.
 
@@ -14,6 +16,7 @@ This is a written reference and set of teaching examples. It does not yet docume
 | Project navigation, relative file links, and guide order | Checked before publication |
 | Pedro API names and constructor order | Compared with current official docs and inspected upstream source |
 | Robot-specific motor directions, servo range, and localization calibration | Must be configured on the actual robot |
+| Host-side Java compilation and 15 control-flow assertions | Passed with test doubles; not an Android/FTC SDK build |
 | Android Studio build against the listed dependencies | Not yet performed |
 | Physical movement, STOP behavior, tracking accuracy, and repeatability | Not yet tested |
 

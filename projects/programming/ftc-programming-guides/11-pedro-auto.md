@@ -1,6 +1,6 @@
 # 11 · Pedro Pathing Autonomous
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I follow a path and add mechanism actions?
 
@@ -16,8 +16,8 @@ Complete [installation and tuning](10-pedro-setup.md). Use [PedroFirstPath.java]
 4. During INIT, call `Constants.create(hardwareMap)` and `follower.setPose(startPose)`. This sets the estimated starting pose; it does not move or physically locate the robot.
 5. Create a straight path with `Paths.line(startPose, endPose).linear(startPose, endPose)`.
 6. Call `follower.follow(path)` once after PLAY. Calling it each loop restarts the path.
-7. Call `follower.update()` every active loop. Show pose, mode, busy state, and elapsed time.
-8. Wait for `!follower.isBusy()`, with a timeout fallback. The example calls `follower.stop()` and updates once before finishing.
+7. Call `follower.update()` every active loop. Read one pose snapshot for telemetry and show position, heading, mode, and busy state. The timeout uses the elapsed timer.
+8. Wait for `!follower.isBusy()`, with a timeout fallback. In cleanup, the example calls `follower.stop()` and then `follower.drivetrain.stop()` in a nested `finally` block. This avoids relying on a localization update to stop the drivetrain after an exception.
 9. Test short paths before curves or mechanisms. The sample length is short, but it does not impose a special low-speed power limit: tune appropriate motion constraints first.
 
 ## Understand coordinates

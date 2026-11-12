@@ -1,6 +1,6 @@
 # FTC Programming — Blocks Illustrations
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 Pictures for all eight standalone Java examples, plus the reusable-function, field-centric, setup, and debugging lessons.
 
@@ -55,7 +55,7 @@ A/B momentary motor commands, encoder display, and normal-exit zero power.
 
 ## ServoToggle
 
-Button-edge detection, persistent toggle state, and conservative servo positions.
+Button-edge detection, persistent toggle state, and conservative servo positions. The picture repeats the current position command in its loop; the Java file sends it once at startup and only when a new press changes the state.
 
 ![ServoToggle · Blocks-style equivalent](media/drawings/servo-toggle.svg)
 

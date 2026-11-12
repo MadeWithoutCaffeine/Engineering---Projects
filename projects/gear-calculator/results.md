@@ -1,8 +1,10 @@
 # Gear Calculator — Results and Limits
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-Calculation checks run on the JavaScript extracted from the downloadable HTML file.
+The automated checks run the actual JavaScript extracted from the downloadable HTML file.
+
+**Checked November 12, 2026:** 13 known-output cases, 17 invalid-input cases, and 2,000 generated gear trains passed. The table below shows seven of the known-output cases.
 
 | Case | Input | Expected output |
 | --- | --- | --- |
@@ -16,4 +18,8 @@ Calculation checks run on the JavaScript extracted from the downloadable HTML fi
 
 Run the repeatable checks with `node check.cjs` from this folder. Node is only needed for these checks, not to use the calculator.
 
-These automated checks validate the calculation function, not every browser control. Browser interaction and appearance have not yet been verified. No physical torque or speed measurements have been made for this version.
+The expanded checks cover pitch-diameter inputs, same-shaft and mixed connections, zero torque/speed, every intermediate stage, input preservation, invalid data, and numerical overflow or underflow. Generated cases use a fixed seed, compare with an independent log-ratio reference, and check ideal-power conservation and direction.
+
+The calculation visits each gear once and uses no third-party runtime libraries. With two to nine gears, its time and memory use are small.
+
+These are calculation tests. A browser launch and local-file browser check were blocked by the testing environment, so browser interaction and appearance remain unverified. No physical torque or speed measurements have been made.

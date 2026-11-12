@@ -53,13 +53,29 @@ tr:nth-child(even) .size { margin-left: 4px; width: 69px; }
 <p class="note">No friction losses included. Diameters = pitch diameters, all in the same unit.</p>
 <script>// Ideal gear train calculations. Each connection describes how a gear is driven.
 function calculateTrain(sizes, connections, torque, speed) {
+  if (!Array.isArray(sizes) || sizes.length < 2 || sizes.length > 9 ||
+      Array.from(sizes).some(n => !Number.isFinite(n) || n <= 0)) {
+    throw new RangeError('Enter two to nine gear sizes greater than zero.');
+  }
+  if (!Array.isArray(connections) || connections.length !== sizes.length - 1 ||
+      Array.from(connections).some(link => !['mesh', 'shaft', 'chain'].includes(link))) {
+    throw new RangeError('Choose a valid connection between each pair of gears.');
+  }
+  if (![torque, speed].every(n => Number.isFinite(n) && n >= 0)) {
+    throw new RangeError('Enter input torque and RPM of zero or greater.');
+  }
   let ratio = 1;
   let direction = 1;
   const stages = [{ ratio: 1, torque, speed, direction }];
   for (let i = 1; i < sizes.length; i++) {
     if (connections[i - 1] !== 'shaft') ratio *= sizes[i] / sizes[i - 1];
     if (connections[i - 1] === 'mesh') direction *= -1;
-    stages.push({ ratio, torque: torque * ratio, speed: speed / ratio, direction });
+    const stage = { ratio, torque: torque * ratio, speed: speed / ratio, direction };
+    if (![stage.ratio, stage.torque, stage.speed].every(Number.isFinite) || ratio <= 0 ||
+        (torque > 0 && stage.torque === 0) || (speed > 0 && stage.speed === 0)) {
+      throw new RangeError('Those values are too large or too small. Use a more practical range.');
+    }
+    stages.push(stage);
   }
   return stages;
 }
@@ -99,8 +115,14 @@ if (typeof document !== 'undefined') {
     else if (mode.value === 'diameter' && connections.includes('chain')) error = 'Use teeth mode for chain-connected sprockets.';
     else if ([torque, speed].some(n => !Number.isFinite(n) || n < 0) || byId('torque').value === '' || byId('speed').value === '') error = 'Enter input torque and RPM of zero or greater.';
     if (error) { byId('error').textContent = error; return; }
-    const stages = calculateTrain(sizes, connections, torque, speed);
-    if (stages.some(s => ![s.ratio, s.torque, s.speed].every(Number.isFinite) || s.ratio <= 0)) { byId('error').textContent = 'Those values are too large or too small. Use a more practical range.'; return; }
+    let stages;
+    try {
+      stages = calculateTrain(sizes, connections, torque, speed);
+    } catch (error) {
+      if (!(error instanceof RangeError)) throw error;
+      byId('error').textContent = error.message;
+      return;
+    }
     const last = stages[stages.length - 1];
     const f = n => Number(n.toPrecision(6)).toLocaleString('en-US', { maximumSignificantDigits: 6 });
     const unit = byId('unit').value;

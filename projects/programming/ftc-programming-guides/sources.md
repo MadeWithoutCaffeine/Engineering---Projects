@@ -1,6 +1,6 @@
 # FTC Programming — Sources
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 Documentation and upstream source were checked on November 1, 2026. The lessons explain the concepts in their own sequence; official documentation remains the reference for API behavior and later changes.
 
@@ -35,9 +35,11 @@ Documentation and upstream source were checked on November 1, 2026. The lessons 
 
 The Pedro example uses the Pedro 3 API. Examples for older versions may use different packages, constructors, and method names. Recheck dependencies before upgrading.
 
-I chose the topics and asked ChatGPT to draft the explanations and example code using the references above. These are teaching examples that still need compilation and robot testing. My competition code is separate from this collection.
+I chose the topics and asked ChatGPT to draft the explanations and example code using the references above. These are teaching examples that still need an actual FTC SDK build and robot testing. My competition code is separate from this collection.
 
 The repository's [license](../../../LICENSE) covers its original documentation subject to third-party terms. FIRST's SDK, Pedro Pathing, REV materials, and other dependencies retain their own licenses and attribution requirements. No third-party project or library source distribution is included in this folder.
+
+The November 12 cleanup change was checked against the pinned upstream [Follower](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/follower/Follower.java) and [Drivetrain](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/drivetrain/Drivetrain.java) source. It stops the drivetrain directly in a final cleanup block instead of depending on another localization update.
 
 ## Blocks illustrations
 

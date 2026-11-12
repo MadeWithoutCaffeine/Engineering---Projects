@@ -1,6 +1,6 @@
 # Level 1 Rocketry — Planning Notes
 
-[All projects](../../README.md) · [Project home](README.md) · [Rocketry notes](rocketry-l1.md) · [Options](#two-certification-options) · [Steps](#rough-plan) · [Sources](#useful-links) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Rocketry notes](rocketry-l1.md) · [Options](#two-certification-options) · [Steps](#rough-plan) · [Sources](#useful-links) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 I want to get more involved in rocketry and eventually earn my Level 1 certification. For now, I’m figuring out which organization to go through, where I could launch, and what I would need to learn and build.
 

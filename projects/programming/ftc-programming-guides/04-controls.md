@@ -1,6 +1,6 @@
 # 04 · Gamepads, Buttons, and Servos
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I make a button act once instead of every loop?
 
@@ -16,7 +16,7 @@ Use [ServoToggle.java](examples/ServoToggle.java) with a positional servo named 
 4. Inside the loop, read the current button once: `boolean aNow = gamepad1.a;`.
 5. Detect a new press with `aNow && !previousA`. Toggle the desired state only when that condition is true.
 6. Update `previousA = aNow;` after checking the edge.
-7. Send the selected servo position and display the state.
+7. Send the initial CLOSED position after PLAY, then send a new position only when a new press changes the state. Continue displaying telemetry in the loop.
 
 ## Why this matters
 
@@ -34,7 +34,7 @@ This fragment makes a zero region; it does not rescale the remaining range.
 
 ## Blocks-style picture
 
-This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+This illustration shows the same button-toggle behavior. The Java example sends positions only at startup and on a new press; the picture repeats the current position in its loop for a simpler Blocks layout. Expand the written expressions into Math and Logic blocks.
 
 ![ServoToggle block-style diagram](media/drawings/servo-toggle.svg)
 
