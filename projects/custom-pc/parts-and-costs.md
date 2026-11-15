@@ -1,6 +1,6 @@
 # Custom PC Build — Parts and Costs
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [System details](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 All amounts are USD. Item prices below exclude order-level tax and adjustments. These are historical purchase prices, not current quotes.
 
@@ -13,7 +13,7 @@ All amounts are USD. Item prices below exclude order-level tax and adjustments. 
 | Storage | SK hynix Platinum P41 1 TB | $79.90 | Marketed capacity; formatted capacity is lower. |
 | Power supply | GL850, 850 W SFX | $109.99 | Receipt lists Empowered PC; research image shows ARESGAME GL850. |
 | CPU cooler | ARCTIC Freezer 36 Black | $44.19 | Air cooler. |
-| Case fans | ARCTIC P12 Slim PWM PST, one 3-pack | $28.99 | Purchase quantity confirmed; installed case-fan count not confirmed. |
+| Case fans | ARCTIC P12 Slim PWM PST, one 3-pack | $28.99 | Purchased as a three-pack. |
 | Thermal paste | ARCTIC MX-4, 4 g | $6.99 | Original order. |
 | Original GPU | ~~Intel Arc A770 Limited Edition 16 GB~~ | ~~$287.09~~ | Replaced; still owned and included in spending. |
 | Current GPU | MSI GeForce RTX 3080 Gaming Z Trio LHR 10 GB | $300.00 | Later upgrade. |
@@ -34,6 +34,6 @@ The receipts label the original-order tax as “estimated tax to be collected.�
 **Original build:** $126.80 + $306.76 + $857.05 = **$1,290.61**.  
 **All documented orders, including the GPU upgrade:** $1,290.61 + $349.70 = **$1,640.31**.
 
-This spending includes both graphics cards because I still own the A770. It excludes monitors, peripherals, software purchases, and any other costs without a supplied record. The case rewards adjustment is shown separately rather than treated as a lower item price.
+This spending includes both graphics cards because I still own the A770. It excludes monitors, peripherals, software purchases, and other undocumented costs. The case rewards adjustment is shown separately rather than treated as a lower item price.
 
-See the [reviewed purchase records](receipts.md).
+See the [purchase records](receipts.md).

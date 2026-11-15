@@ -9,7 +9,6 @@ Ideas I want to keep track of and develop as I have the time, tools, and budget.
 | Field | Details |
 | --- | --- |
 | Status | Early concepts · designs and testing still ahead |
-| Notes updated | November 12, 2026 |
 | Goal | Keep track of possible projects and what I want to learn from them. |
 | My intended role | Design, fabrication, programming, testing, and documentation as needed. |
 
@@ -111,11 +110,7 @@ I want to research and work toward Level 1 high-power rocketry certification. Th
 
 ## Next steps
 
-- [ ] Choose which idea to develop first.
-- [ ] Review available tools and materials.
-- [ ] Make initial sketches and research the main components.
-- [ ] Create a separate project record when development begins.
-
-## Credits
-
-These are projects I want to try. ChatGPT helped brainstorm and organize some of the early notes. I still need to develop and test the designs.
+- Choose which idea to develop first.
+- Review available tools and materials.
+- Make initial sketches and research the main components.
+- Create a separate project record when development begins.

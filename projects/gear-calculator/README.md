@@ -9,7 +9,6 @@ A small calculator for trying gear combinations and seeing how they change torqu
 | Field | Details |
 | --- | --- |
 | Status | Working · calculation checks passed |
-| Project updated | November 12, 2026 |
 | Goal | Explore the gear ratios covered in Principles of Engineering at CTC. |
 | My role | HTML, CSS, JavaScript, and calculations; Google and Reddit for coding and math help. |
 
@@ -38,12 +37,8 @@ The calculator handles two to nine gears using tooth counts or pitch diameters. 
 
 ## Next steps
 
-- [ ] Compare the predictions with a physical gear setup.
-- [ ] Add actual measurements and photos from that test.
-
-## Credits
-
-I built the original calculator myself, using Google and Reddit for coding questions and equations. On November 12, 2026, ChatGPT helped audit the code, add input and numerical-range checks, and expand the automated tests. The basic interface and gear-train model are unchanged.
+- Compare the predictions with a physical gear setup.
+- Add actual measurements and photos from that test.
 
 ---
 

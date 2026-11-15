@@ -9,7 +9,6 @@ My 3D-printed RC airplane build, from printed parts to assembly, electronics set
 | Field | Details |
 | --- | --- |
 | Status | Paused · target: end of summer 2027 |
-| Project updated | October 30, 2026 |
 | Goal | Finish the build, complete ground checks, and prepare for flight testing. |
 | My role | Component research, printing, assembly, and integration; aircraft design by Eclipson. |
 
@@ -39,10 +38,10 @@ A stolen carbon-fiber shipment and the change from an ER6 to an ER8 receiver add
 
 ## Next steps
 
-- [ ] Inventory stored parts and replace any missing reinforcement.
-- [ ] Complete airframe assembly and electronics installation.
-- [ ] Configure controls and complete balance, range, and ground checks.
-- [ ] Carry out the first flight and record the results.
+- Inventory stored parts and replace any missing reinforcement.
+- Complete airframe assembly and electronics installation.
+- Configure controls and complete balance, range, and ground checks.
+- Carry out the first flight and record the results.
 
 ## Credits
 

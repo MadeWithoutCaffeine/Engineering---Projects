@@ -1,10 +1,8 @@
 # Custom PC Build — Receipts
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [System details](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-These reviewed purchase screenshots support the dates and totals in [Parts and actual costs](parts-and-costs.md). Personal information has been blurred where identified. Purchase and delivery dates shown in the screenshots are not image capture or installation dates. Click any image or its link to open it.
-
-All images below are compressed JPEG viewing copies with metadata removed.
+Purchase records for the parts listed in [Parts and actual costs](parts-and-costs.md). Personal details are hidden. Select an image to open the larger view.
 
 ## RTX 3080 purchase and delivery
 

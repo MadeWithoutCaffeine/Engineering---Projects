@@ -1,6 +1,6 @@
 # Custom PC Build — Build Story
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [System details](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 ## Research and original build
 
@@ -15,7 +15,7 @@ The original build used an Intel Arc A770 Limited Edition 16 GB. The case is a *
 | May 31, 2025 | Ordered the CPU, motherboard, memory, SSD, power supply, cooler, fan pack, and thermal paste. |
 | June 30, 2026 | Ordered the MSI RTX 3080 Gaming Z Trio LHR 10 GB. |
 | July 1, 2026 | RTX 3080 delivery recorded. This is not a confirmed installation date. |
-| October 31, 2026 | System information checked and portfolio documentation updated. |
+| October 31, 2026 | Recorded the current system specifications. |
 
 ## GPU upgrade
 

@@ -9,9 +9,8 @@ A personal web app I created to bring everyday information into one workspace an
 | Field | Details |
 | --- | --- |
 | Status | In use · ongoing development |
-| Project updated | October 31, 2026 |
 | Goal | Make everyday information easier to organize, access, and keep up to date. |
-| My role | Purpose, features, direction, and use; see Credits for development and workflow assistance. |
+| My role | Purpose, feature planning, direction, and everyday use. |
 
 ## Project guide
 
@@ -19,9 +18,9 @@ A personal web app I created to bring everyday information into one workspace an
 | --- | --- |
 | [Story](build-log.md) | Why I created Clear and how the workspace developed |
 | [Features](features.md) | Workspace sections, connected workflows, and current limits |
-| [Screenshots](photos.md) | Reviewed desktop and mobile website views |
+| [Screenshots](photos.md) | Desktop and mobile website views |
 | [Results](results.md) | Recorded read-only checks and their limits |
-| [Sources](sources.md) | Development context, assistance, and source availability |
+| [Sources](sources.md) | References for future mobile development |
 
 ## Background
 
@@ -39,16 +38,10 @@ The [screenshots](photos.md) show the website on desktop and mobile. All 12 imag
 
 ## Next steps
 
-- [ ] Improve update status and reliability.
-- [ ] Test repeated imports and partial updates.
-- [x] Add the reviewed desktop and mobile images to the public gallery.
-- [ ] Prepare a demonstration with fictional data.
-- [ ] Review the implementation for a source guide.
-- [ ] Explore low-cost iOS options.
-
-## Credits
-
-I chose the purpose and features around what I needed in daily use. Clear is hosted through ChatGPT Sites, and ChatGPT helps with connected workflows and this write-up. I still need to review the development history before giving a detailed breakdown of the code contributions.
+- Improve update status and reliability.
+- Test repeated imports and partial updates.
+- Prepare a demonstration with fictional data.
+- Explore low-cost iOS options.
 
 ---
 

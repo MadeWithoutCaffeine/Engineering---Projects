@@ -44,4 +44,4 @@ The linked programming collection is a teaching reference. Its examples are sepa
 
 ## Credits
 
-The robot is a team project. This page describes my responsibilities, while competition awards belong to the team. The linked programming guides retain their own credits and testing limits.
+The robot is a team project. This page describes my responsibilities, while competition awards belong to the team. The linked programming guides are a separate teaching reference with their own setup requirements and testing limits.

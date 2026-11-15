@@ -1,10 +1,8 @@
 # Custom PC Build — Photos
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [System details](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-Capture dates are unconfirmed. The grouping below is approximate. Research screenshots document my research, not current prices or the purchase price. Click any image or its link to open the full-size reviewed viewing copy.
-
-All images below are compressed JPEG viewing copies with metadata removed.
+Build photos, desk setups, and component research. Research screenshots show what I compared while planning the PC; purchase prices are listed on the [Parts and costs page](parts-and-costs.md). Select an image to open the larger view.
 
 ## Original A770 desk setup
 

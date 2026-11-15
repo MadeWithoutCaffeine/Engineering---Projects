@@ -11,9 +11,8 @@ This is a written reference and set of teaching examples. It does not yet docume
 | Check | Status |
 | --- | --- |
 | Twelve subjects and eight standalone Java examples | Included |
-| Twelve Blocks-style illustrations covering all eight examples and additional lesson fragments | Included; SVGs rendered and inspected for layout |
+| Twelve Blocks-style illustrations covering all eight examples and additional lesson fragments | Included as conceptual illustrations |
 | Blocks editor imports or execution | Not performed; pictures are illustrations, not .blk programs |
-| Project navigation, relative file links, and guide order | Checked before publication |
 | Pedro API names and constructor order | Compared with current official docs and inspected upstream source |
 | Robot-specific motor directions, servo range, and localization calibration | Must be configured on the actual robot |
 | Host-side Java compilation and 15 control-flow assertions | Passed with test doubles; not an Android/FTC SDK build |

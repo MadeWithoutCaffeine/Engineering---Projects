@@ -11,7 +11,6 @@ One of my friends is also interested in rocketry and has already launched quite 
 | Field | Notes |
 | --- | --- |
 | Status | Researching · not certified yet |
-| Research checked | November 1, 2026 |
 | Goal | Earn L1 through NAR or Tripoli. |
 | First step | Find a club and someone who can help me through the process. |
 

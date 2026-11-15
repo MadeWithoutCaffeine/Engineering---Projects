@@ -6,7 +6,7 @@ These views show Clear on a computer and on a phone. Both are versions of the we
 
 All 12 images are stored in this repository. Select an image to open the full-size file.
 
-Privacy-edited copies hide personal record content. The image editor also resized and slightly changed the appearance of edited copies, so they are visual references rather than exact pixel-for-pixel originals. The three otherwise unchanged mobile views have extra metadata removed. No live workspace link is included.
+Personal content is hidden in these viewing copies. Some images have been resized or edited, so they are visual references rather than exact captures of every interface detail.
 
 ## Website Version
 
@@ -42,7 +42,7 @@ Desktop website views. These are privacy-edited copies.
 
 ## Mobile Version
 
-Mobile website views on an iPhone. Summary and Goals are privacy-edited. Scan & Import, Browse, and Assistant show the reviewed interface without private record content.
+The mobile website on an iPhone, showing Summary, Goals, Scan & Import, Browse, and Assistant.
 
 ### Summary
 
@@ -63,5 +63,3 @@ Mobile website views on an iPhone. Summary and Goals are privacy-edited. Scan & 
 ### Assistant
 
 [<img src="media/photos/mobile-assistant.png" alt="Clear mobile website — Assistant" width="360">](media/photos/mobile-assistant.png)
-
-The supplied views were provided together on October 31, 2026. Upload dates are not treated as verified capture timestamps. These images document the interface, not a completed test of the features shown.

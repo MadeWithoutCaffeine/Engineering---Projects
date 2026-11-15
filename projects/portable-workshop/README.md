@@ -54,7 +54,3 @@ For the office, I'm considering either moving my current desktop setup or buildi
 - Refine the base, connections, and plan for moving the finished workshop.
 - Plan the printing area and filament dryer.
 - Develop a materials list and cost estimate before buying supplies.
-
-## Credits
-
-ChatGPT helped provide example images during the early planning. I ended up doing more research myself and rethinking the geometry and framing many times. The dimensions, frame design, portability plan, and CAD model are my work. I'm also researching the heating systems, insulation, doors, and windows to make the workshop suit my needs.

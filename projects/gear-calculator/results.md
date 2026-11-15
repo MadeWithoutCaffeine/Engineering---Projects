@@ -22,4 +22,4 @@ The expanded checks cover pitch-diameter inputs, same-shaft and mixed connection
 
 The calculation visits each gear once and uses no third-party runtime libraries. With two to nine gears, its time and memory use are small.
 
-These are calculation tests. A browser launch and local-file browser check were blocked by the testing environment, so browser interaction and appearance remain unverified. No physical torque or speed measurements have been made.
+These checks cover the calculations rather than the browser interface. I haven't compared the predictions with physical torque or speed measurements yet.

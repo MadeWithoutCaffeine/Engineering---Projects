@@ -10,7 +10,7 @@ The layout has an open main workshop and an office separated by a sliding door. 
 
 ## Rethinking the design
 
-ChatGPT provided example images to help visualize early ideas. As I worked on the model, I needed more research and went back through the geometry and framing many times. I made my own decisions about the dimensions, frame design, and how to keep portability part of the plan.
+As I worked on the model, I needed more research and went back through the geometry and framing many times. I made my own decisions about the dimensions, frame design, and how to keep portability part of the plan.
 
 Heating, insulation, doors, and windows also affect how useful the space will be. I'm considering those alongside the framing and layout instead of waiting until the shell is built.
 

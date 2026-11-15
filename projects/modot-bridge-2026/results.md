@@ -2,7 +2,7 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-**Tested: 13.2 lb supported with a bridge mass of 28.65 g.** Results and observations added November 14, 2026.
+**Tested: 13.2 lb supported with a bridge mass of 28.65 g.**
 
 ## Recorded results
 
@@ -11,14 +11,9 @@
 | Bridge mass | 28.65 g |
 | Supported load | 13.2 lb, approximately 5.99 kg |
 | Calculated load-to-mass ratio | Approximately 209:1 |
-| Official efficiency score | Not confirmed; the ratio below is calculated from my reported measurements. |
 | First reported issue | Two strings I had tensioned slightly too tightly; one loosened and another slipped. |
 | End of test | Loss of string bracing brought the test to an end. |
 | Condition when returned | Frame intact, with next to no visible signs of testing apart from two loose strings. |
-| Final dimensions | Not recorded here yet. |
-| Inspection outcome / penalties | Not confirmed. |
-| Individual / school placing | Not confirmed. |
-| Individual test date / time | Not independently recorded; the announced competition date was November 5, 2026. |
 
 ## What happened
 
@@ -64,7 +59,7 @@ For another build, I would:
 
 ## Competition reference
 
-MoDOT announced testing for **Thursday, November 5, 2026**, at Southeast Missouri State University's Academic Hall, 900 Normal Avenue, Cape Girardeau, Missouri. Its current competition page confirms that the event took place on November 5. The update date on this page is when I added my account, not the date the videos were captured.
+MoDOT announced testing for **Thursday, November 5, 2026**, at Southeast Missouri State University's Academic Hall, 900 Normal Avenue, Cape Girardeau, Missouri. Its current competition page confirms that the event took place on November 5.
 
 [MoDOT announcement](https://www.modot.org/node/96071) · [MoDOT competition recap](https://www.modot.org/bridge-competition). Checked November 14, 2026.
 

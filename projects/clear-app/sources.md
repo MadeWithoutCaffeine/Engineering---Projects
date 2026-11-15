@@ -1,29 +1,17 @@
-# Clear — Sources and Development Notes
+# Clear — Development References
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Screenshots](photos.md) · [Desktop view](photos.md#website-version) · [Mobile view](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-## Technical documentation
+## Mobile development
 
-Clear is a hosted web app with a connected assistant interface. I haven't completed a source review for this portfolio, so I haven't documented its framework, storage, or setup instructions yet.
+I currently use Clear through a website link on my phone's home screen. I'd like to explore an iOS version with the permissions and connections the app needs.
 
-A future source guide should explain the interface, record handling, account access, and import behavior using reviewed implementation excerpts. The public portfolio does not include the live app address, private endpoints, deployment identifiers, credentials, or workspace exports.
+These are references for that future work:
 
-## iOS research
+- [Apple developer account overview](https://developer.apple.com/help/account/basics/about-your-developer-account)
+- [Apple background task strategies](https://developer.apple.com/documentation/backgroundtasks/choosing-background-strategies-for-your-app)
+- [Apple HealthKit](https://developer.apple.com/documentation/healthkit)
 
-I want to explore an iOS version with suitable permissions and background support. A native installation would not automatically provide continuous syncing.
+A native app would still need a suitable way to handle updates and background work. I haven't chosen that approach yet.
 
-Apple's free personal testing option uses provisioning profiles that expire after seven days. I still need to choose a practical installation and maintenance approach.
-
-## References
-
-These references support future research; they are not a list of tools used during the original build.
-
-- [Apple developer account overview](https://developer.apple.com/help/account/basics/about-your-developer-account) — personal testing and account limits.
-- [Apple background task strategies](https://developer.apple.com/documentation/backgroundtasks/choosing-background-strategies-for-your-app) — supported background approaches.
-- [Apple HealthKit](https://developer.apple.com/documentation/healthkit) — native health-data access.
-
-**Reference check:** October 31, 2026.
-
-## Documentation still to add
-
-Reviewed source explanations, detailed development contributions, confirmed costs, recorded test results, and demonstration media remain to be added.
+[Project story](build-log.md) · [Features](features.md)

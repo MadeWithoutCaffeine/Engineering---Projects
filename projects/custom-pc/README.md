@@ -1,6 +1,6 @@
 # Custom PC Build
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [System details](verification.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 I researched and built a compact desktop PC to learn how the hardware and software work together. It started with an Intel Arc A770, and I later upgraded to an RTX 3080 while keeping the original card.
 
@@ -9,7 +9,6 @@ I researched and built a compact desktop PC to learn how the hardware and softwa
 | Field | Details |
 | --- | --- |
 | Status | Built and in use |
-| Project updated | October 31, 2026 |
 | Goal | Balance compatibility, cost, cooling, and room for upgrades in a compact PC. |
 | My role | Component research, selection, assembly, and upgrades. |
 
@@ -21,7 +20,7 @@ I researched and built a compact desktop PC to learn how the hardware and softwa
 | [Parts & costs](parts-and-costs.md) | Original parts, the replacement GPU, and documented spending |
 | [Photos](photos.md) | Hardware and build photos |
 | [Receipts](receipts.md) | Redacted purchase records |
-| [Verification](verification.md) | Component evidence and specifications still to confirm |
+| [System details](verification.md) | System information and capacity details |
 
 ## Background
 
@@ -37,13 +36,7 @@ The original orders totaled **$1,290.61** after the recorded tax and rewards adj
 
 ## Next steps
 
-- [ ] Record temperatures and performance under repeatable test conditions.
-- [ ] Confirm the installed case-fan count and configured memory speed.
-- [ ] Add assembly and GPU installation dates if I can verify them.
-
-## Credits
-
-I researched the parts and assembled the PC. ChatGPT helped organize this write-up, check the receipts, and collect system information.
+- Record temperatures and performance under repeatable test conditions.
 
 ---
 

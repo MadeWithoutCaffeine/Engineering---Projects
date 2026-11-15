@@ -35,15 +35,15 @@ Documentation and upstream source were checked on November 1, 2026. The lessons 
 
 The Pedro example uses the Pedro 3 API. Examples for older versions may use different packages, constructors, and method names. Recheck dependencies before upgrading.
 
-I chose the topics and asked ChatGPT to draft the explanations and example code using the references above. These are teaching examples that still need an actual FTC SDK build and robot testing. My competition code is separate from this collection.
+These are teaching examples that still need an actual FTC SDK build and robot testing. My competition code is separate from this collection.
 
 The repository's [license](../../../LICENSE) covers its original documentation subject to third-party terms. FIRST's SDK, Pedro Pathing, REV materials, and other dependencies retain their own licenses and attribution requirements. No third-party project or library source distribution is included in this folder.
 
-The November 12 cleanup change was checked against the pinned upstream [Follower](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/follower/Follower.java) and [Drivetrain](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/drivetrain/Drivetrain.java) source. It stops the drivetrain directly in a final cleanup block instead of depending on another localization update.
+The example's final cleanup follows the pinned upstream [Follower](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/follower/Follower.java) and [Drivetrain](https://github.com/Pedro-Pathing/PedroPathing/blob/cf4be31449a8963af3a7ce7951de09fd163bbb3d/core/src/main/java/com/pedropathing/drivetrain/Drivetrain.java) source. It stops the drivetrain directly in a final cleanup block instead of depending on another localization update.
 
 ## Blocks illustrations
 
-ChatGPT prepared the original diagrams for this collection. They use block-style shapes and condensed text; they are not copied screenshots or exports from a robot. Long expressions and grouped motor operations need to be expanded into native editor blocks.
+The diagrams use block-style shapes and condensed text; they are illustrations rather than screenshots or exports from a robot. Long expressions and grouped motor operations need to be expanded into native editor blocks.
 
 - [FIRST Blocks OpMode tutorial](https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/creating_op_modes/Writing-an-Op-Mode-with-FTC-Blocks.html): editor concepts and telemetry.
 - [FIRST IMU guide](https://ftc-docs.firstinspires.org/en/latest/programming_resources/imu/imu.html): Blocks IMU parameters, orientation, angle getters, and yaw reset.

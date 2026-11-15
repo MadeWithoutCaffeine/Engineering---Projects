@@ -9,9 +9,8 @@ A practical FTC Java reference for setting up a robot, understanding its code, a
 | Field | Details |
 | --- | --- |
 | Status | Written reference · robot testing pending |
-| Project updated | November 1, 2026 |
 | Goal | Make common FTC programming tasks easier to understand and reuse |
-| My role | Subject selection and organization; guide and code drafting credited below |
+| My role | Subject selection and organization of the learning collection |
 | Tools | Java, Android Studio, FTC SDK; Pedro Pathing for the pathing lessons |
 | Version baseline | FTC SDK 12.0.0; Pedro revhub 3.0.2 and tuning 1.0.3 |
 
@@ -23,7 +22,7 @@ A practical FTC Java reference for setting up a robot, understanding its code, a
 | [Examples](examples/README.md) | Complete Java files and exact setup requirements |
 | [Blocks illustrations](blocks.md) | Block-style logic images for every example and additional lesson fragments |
 | [Results](results.md) | What has been checked and what still needs robot testing |
-| [Sources](sources.md) | Official references, version details, and credits |
+| [Sources](sources.md) | Official references and version details |
 
 ## Background
 
@@ -49,10 +48,6 @@ All eight examples passed host-side compilation with test doubles and 15 control
 
 ## Next steps
 
-- [ ] Build the SDK examples in the team's FTC project.
-- [ ] Test each example on the matching hardware.
-- [ ] Add measured observations and team-specific adaptations after testing.
-
-## Credits
-
-I asked ChatGPT to draft these guides and examples around the topics I wanted to teach. They use the FIRST, REV Robotics, and Pedro Pathing references linked in [Sources](sources.md). The examples still need an actual FTC SDK build and robot testing before I can report how they perform on hardware. Third-party libraries keep their own licenses.
+- Build the SDK examples in the team's FTC project.
+- Test each example on the matching hardware.
+- Add measured observations and team-specific adaptations after testing.

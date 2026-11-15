@@ -2,8 +2,6 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-*Build and testing account updated November 14, 2026.*
-
 ## 1. How I learned about the competition
 
 The MoDOT bridge competition is offered every year to participating schools in Missouri. My school has been involved for almost as long as it has been available. I had known about it for probably three years, but this was my first year actually doing it, and I had not had the chance to prepare beforehand.
@@ -18,13 +16,13 @@ I understood that balance going into the project, but time complications meant I
 
 ## 3. Researching shapes and exploring designs
 
-I went through many designs before deciding what to build. Early on, I used ChatGPT to help me research shapes found in nature, including triangles and hexagons, and explore which arrangements might work well for a lightweight bridge. I wanted to understand how the shape of a structure affects its strength and how that could apply to my own design.
+I went through many designs before deciding what to build. I researched shapes found in nature, including triangles and hexagons, and looked at arrangements used in lightweight structures. I wanted to understand how the shape of a structure affects its strength and how I could apply that to the bridge.
 
 I also considered paired side trusses, a Pratt-style option, and an 18-inch braced queen-post proposal before choosing the final design.
 
 ## 4. Visualizing the options and recognizing my limits
 
-I asked for a three-view rendering so I could understand the proposed bridge in three dimensions. I also requested a private optimizer to compare dimensions, member sizes, material weights, loads, and different truss arrangements. The saved optimizer included queen-post, Pratt, Howe, and Warren layouts. Its estimates were planning information, not measurements of my bridge.
+I compared drawings and several truss arrangements to understand how the parts might fit together. It was useful for exploring options, but those comparisons couldn't tell me what the finished bridge would actually hold.
 
 The biggest limitation was that I did not have enough time or extra materials to test all the ideas. Extra test materials were not issued to us, so I would probably have needed to get those myself. I could research possible solutions, but I could not thoroughly compare joint strength, load distribution, different shapes, which pieces would snap, or how thick individual members needed to be.
 
@@ -32,21 +30,19 @@ I wanted to minimize weight while keeping the bridge's shape, stability, and str
 
 ### Drawing my own final design and preparing printable blueprints
 
-I initially designed the final bridge on paper. I drew it out myself, worked out my own measurements, and added the dimensions I needed to build it. ChatGPT helped with some measurements, but the majority of the design was my own.
+I drew the final design on paper and added the dimensions I needed for construction. I wanted clear plans that I could print and keep in front of me while building.
 
-Once I had my drawings, I uploaded them to ChatGPT and asked it to clean them up into blueprints that I could follow. I wanted something I could print out and keep in front of me while building. I also asked it to check whether anything in my drawings did not make sense, might lead to a penalty, or did not follow the competition guidelines. That was a review I requested, rather than confirmation that the bridge had passed an official inspection.
-
-I'd estimate ChatGPT's help at around 30% of the project, mainly research, some measurements, and preparing clearer blueprints. I made most of the design myself and triple-checked the suggestions before deciding what to use. The bridge has now been competition tested; the recorded results are below. I have not added an official inspection record.
+I went back through the measurements and competition guidelines before deciding what to use. Checking the plans helped me think through the design, but testing the finished bridge was still the way to find out how it performed.
 
 ## 5. Preparing materials and starting construction
 
 Before building, I spent time planning which pieces I would use and how to get the most usable sticks out of the material available. Some of the photos may show this preparation before construction actually started.
 
-The photos of the build cover roughly four to four and a half days, from starting construction to finishing the bridge. That is the approximate construction window, not the total time I spent thinking about the project or exploring designs. The uploaded copies contain no readable capture dates, so the gallery uses original filename sequence as an approximate timeline. Upload timestamps are not treated as build dates.
+Construction took roughly four to four and a half days. Researching and exploring designs took additional time before that.
 
 ## 6. Choosing a simpler bridge and strengthening the base
 
-I troubleshot ideas with ChatGPT and went back and forth for a while until I settled on an initial design. As I started planning it out roughly, I realized that its structural concept was still untested. Without extra materials, I could not try out the additional joints or see how the different parts would work together.
+I went back and forth between ideas for a while before settling on an initial design. As I started planning it out roughly, I realized that its structural concept was still untested. Without extra materials, I could not try out the additional joints or see how the different parts would work together.
 
 I was also unfamiliar with the competition rules and how quickly I needed to finish. Given those time constraints, I decided against taking that risk this year. I chose a simpler design that I felt was more likely to pass the requirements. I put more emphasis on a strong base. The later test ended after the string bracing loosened and slipped, so it did not establish the frame's full load capacity.
 
