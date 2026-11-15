@@ -1,8 +1,8 @@
-# MoDOT Bridge — Construction Photos
+# MoDOT Bridge — Photos
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-**19 unique photos**, shown on one scrolling page in approximate original filename order. The build took roughly four to four and a half days, but capture dates are unavailable; exact days and intermediate stages have not been assigned. Select any photo to open its original.
+**21 photos:** 19 construction photos in approximate original filename order, followed by two post-test views added November 14, 2026. The build took roughly four to four and a half days, but capture dates are unavailable; exact days and intermediate stages have not been assigned. Select any photo to open its original.
 
 ## 01 · IMG_2805.jpeg
 
@@ -79,6 +79,24 @@
 ## 19 · IMG_2860.jpeg
 
 [<img src="media/photos/IMG_2860.jpeg" alt="Bridge project photo 19: IMG_2860.jpeg" width="900">](media/photos/IMG_2860.jpeg)
+
+## Post-test photos
+
+The following photos show the bridge after it was returned from competition testing. The wooden frame is still standing, and loose strings are visible. The recorded result was **13.2 lb** with a bridge mass of **28.65 g**.
+
+### Side view
+
+[<img src="media/photos/post-test-side-view.jpeg" alt="Side view of the returned balsa bridge with loose diagonal strings and a standing wooden frame" width="900">](media/photos/post-test-side-view.jpeg)
+
+*Source upload: IMG_9C9C8984-42DD-45E0-8FB7-4FCD84419500.jpeg.*
+
+### End view and competition tag
+
+[<img src="media/photos/post-test-end-view.jpeg" alt="End view of the returned bridge and competition tag showing the reported load and bridge mass" width="650">](media/photos/post-test-end-view.jpeg)
+
+*Source upload: IMG_C4A278B2-18F2-4CEF-B17A-9F53C0A54DFC.jpeg. These views document the bridge's visible condition; they do not measure remaining strength.*
+
+[Watch the competition videos](videos.md) · [Read the results](results.md)
 
 [Back to project home](README.md)
 

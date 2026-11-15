@@ -2,7 +2,7 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-*Build account updated October 30, 2026. Testing results are still pending.*
+*Build and testing account updated November 14, 2026.*
 
 ## 1. How I learned about the competition
 
@@ -36,7 +36,7 @@ I initially designed the final bridge on paper. I drew it out myself, worked out
 
 Once I had my drawings, I uploaded them to ChatGPT and asked it to clean them up into blueprints that I could follow. I wanted something I could print out and keep in front of me while building. I also asked it to check whether anything in my drawings did not make sense, might lead to a penalty, or did not follow the competition guidelines. That was a review I requested, rather than confirmation that the bridge had passed an official inspection.
 
-I'd estimate ChatGPT's help at around 30% of the project, mainly research, some measurements, and preparing clearer blueprints. I made most of the design myself and triple-checked the suggestions before deciding what to use. The finished bridge still needs official inspection and testing.
+I'd estimate ChatGPT's help at around 30% of the project, mainly research, some measurements, and preparing clearer blueprints. I made most of the design myself and triple-checked the suggestions before deciding what to use. The bridge has now been competition tested; the recorded results are below. I have not added an official inspection record.
 
 ## 5. Preparing materials and starting construction
 
@@ -48,22 +48,30 @@ The photos of the build cover roughly four to four and a half days, from startin
 
 I troubleshot ideas with ChatGPT and went back and forth for a while until I settled on an initial design. As I started planning it out roughly, I realized that its structural concept was still untested. Without extra materials, I could not try out the additional joints or see how the different parts would work together.
 
-I was also unfamiliar with the competition rules and how quickly I needed to finish. Given those time constraints, I decided against taking that risk this year. I chose a simpler design that I felt was more likely to pass the requirements. I put more emphasis on a strong base, though I won't know how well that choice worked until testing.
+I was also unfamiliar with the competition rules and how quickly I needed to finish. Given those time constraints, I decided against taking that risk this year. I chose a simpler design that I felt was more likely to pass the requirements. I put more emphasis on a strong base. The later test ended after the string bracing loosened and slipped, so it did not establish the frame's full load capacity.
 
 I did not push the strength-to-weight balance as far as I wanted this year. I was working with limited time and without spare material for experiments, so I had to make decisions without first testing every connection or member size. Next year, I want to prepare earlier and use testing to make those decisions more carefully.
 
-## 7. Finished construction and current status
+## 7. Competition test and what happened afterward
 
-I have finished building the bridge, but I do not have its measured weight or competition results yet. I also do not know whether it has passed inspection. Finishing construction is one stage of the project; the test will show what the bridge can actually do.
+The bridge weighed **28.65 grams** and supported **13.2 pounds**. I made a mistake when tensioning two of the strings: I tightened them slightly too much. During loading, one loosened and another slipped, which disrupted the bracing and brought the test to an end.
+
+When I received the bridge back, it was still intact. Apart from two loose strings, it showed next to no visible signs of having been tested. The wooden frame appeared to be in nearly the same condition as before.
+
+It was disappointing to have the test end because of a mistake in the stringing. I had spent time thinking through the frame and its base, but the way I tensioned and secured the strings mattered just as much. The result gave me a specific part of my process to improve.
+
+Before the test, I had estimated around 90% efficiency. That was an expectation, not a verified score. The result I can record is 13.2 pounds at 28.65 grams, which works out to about 209 times the bridge's own weight. The intact appearance afterward does not prove what a corrected bridge could have held.
+
+[See the measurements and failure notes](results.md) · [Watch the competition footage](videos.md) · [View the returned bridge](photos.md#post-test-photos)
 
 ## 8. What I am taking from this year and planning for next year
 
-This is my first year doing the competition, and I still have another chance next year. Even before testing, I have a better idea of how much preparation goes into a bridge like this. Researching a shape is only part of it. I also need time to test connections, compare member sizes, think about load distribution, and decide where extra material is worth the added weight.
+This is my first year doing the competition, and I still have another chance next year. After building and testing it, I have a better idea of how much preparation goes into a bridge like this. Researching a shape is only part of it. I also need time to test connections, compare member sizes, think about load distribution, and decide where extra material is worth the added weight.
 
-Next year, I want to start earlier and be better prepared. I hope to get extra test materials so I can compare ideas before committing to a final bridge. I want to do a better job of keeping the bridge light while maintaining its strength, instead of relying mainly on making important sections stronger.
+Next year, I want to start earlier and be better prepared. I hope to get extra test materials so I can compare ideas before committing to a final bridge. I especially want to test string anchoring, slipping, and a consistent way to set tension. I want to do a better job of keeping the bridge light while maintaining its strength, instead of relying mainly on making important sections stronger.
 
-I am also interested in scholarship opportunities connected to the competition because I am working toward attending Missouri S&T. After checking the published information, I cannot yet say that I will be eligible for an S&T competition scholarship next year. I still value the experience, effort, and learning that this project represents.
+I am also interested in scholarship opportunities connected to the competition because I am working toward attending Missouri S&T. MoDOT's current recap says Missouri S&T and SEMO awarded scholarships to top winners this year, but that does not establish my eligibility or the terms for next year. I still value the experience, effort, and learning that this project represents.
 
-[See all construction photos](photos.md) · [Record testing results](results.md)
+[See all construction photos](photos.md) · [Read testing results](results.md)
 
 [All projects](../../README.md) · [Project home](README.md)

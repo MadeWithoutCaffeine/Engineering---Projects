@@ -2,39 +2,55 @@
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
-## Source of the project story
+## Source of the project story and measurements
 
-I wrote this account from my notes and recollection of the build. The construction time and amount of ChatGPT assistance are rough estimates. The earlier truss ideas and optimizer figures were part of planning; measured results will come from testing the finished bridge.
+This account is based on my build notes, recollection, and post-test update shared November 14, 2026. I reported a **28.65 g** bridge mass, **13.2 lb** supported load, a tensioning mistake involving two strings, and an otherwise intact frame when the bridge was returned.
+
+The calculated ratio of approximately **209:1** uses those reported measurements with pounds converted to grams. It is not labeled as an official efficiency score. My earlier estimate of around **90% efficiency** was an unverified personal expectation with no established scoring basis.
+
+Construction time and the amount of ChatGPT assistance are rough estimates. Earlier truss ideas and optimizer figures were planning information, not measurements of the finished bridge. The exact string failure sequence is my interpretation from the event and the returned bridge; no independent close-up analysis of the anchors is claimed.
 
 ## Official competition references
 
-- [2026 MoDOT announcement](https://www.modot.org/node/96071): test date, location, and current scholarship announcement.
-- [MoDOT competition page](https://www.modot.org/bridge-competition): event start time and link to rules.
-- [2024 MoDOT announcement](https://www.modot.org/node/55044): historical scholarship context only.
+- [2026 MoDOT announcement](https://www.modot.org/node/96071): competition materials, announced November 5 testing date, venue, and sponsors.
+- [MoDOT competition recap](https://www.modot.org/bridge-competition): confirms the event took place November 5 and reports winners and scholarship sponsors.
+
+Checked November 14, 2026. The competition page now contains a recap, so its earlier use here as a source for an event start time has been removed.
 
 ## Scholarship research
 
-Checked October 30, 2026. Missouri S&T is listed as a 2026 sponsor, but the announcement specifically identifies SEMO as offering a scholarship to the top winner. It does not establish a current S&T scholarship offer or eligibility requirements.
+The current recap says **Missouri S&T and Southeast Missouri State University awarded scholarships to top winners**. This updates the earlier note based on the pre-event announcement, which mentioned an SEMO scholarship and listed S&T as a sponsor.
 
-The 2024 announcement described a university partnership, including S&T, offering seniors interested in civil engineering up to $10,000 in scholarships. That was a collective announcement, not a confirmed $10,000 S&T award per student.
+The recap does not provide the award amounts or full eligibility terms. I am a junior interested in mechanical and aerospace engineering. A 2027 offer, eligible majors, selection process, deadlines, and enrollment conditions still need confirmation. This project does not claim that I received a scholarship.
 
-I am a junior with mechanical/aerospace interests. Being a senior next year would meet the historical grade condition, but my intended majors do not establish eligibility for a civil-engineering-specific award. A 2027 S&T offer, eligible majors, amount, selection process, deadlines, and enrollment conditions remain unverified.
+## Media records
+
+The construction gallery contains 19 unique photos. Six byte-identical duplicate uploads were consolidated earlier. Capture dates were unavailable for that construction set, so filenames give only an approximate sequence.
+
+Two newly supplied post-test photos bring the gallery to **21 photos**. Their original source filenames are listed beside the images.
+
+| Published media | Source |
+| --- | --- |
+| post-test-side-view.jpeg | IMG_9C9C8984-42DD-45E0-8FB7-4FCD84419500.jpeg |
+| post-test-end-view.jpeg | IMG_C4A278B2-18F2-4CEF-B17A-9F53C0A54DFC.jpeg |
+| competition-load-test.mp4 | IMG_3044.mp4 |
+| competition-results.mp4 | IMG_3045.mp4 |
+| competition-wide-view.mp4 | IMG_3043.mp4 |
+
+The three competition videos are published as smaller viewing copies with their full duration and audio. An alternate upload, IMG_3043(1).mp4, covers the same wide-view recording and is not presented as another test. The two earlier build recordings remain unpublished. Video export and upload timestamps are not used as the competition test date.
 
 ## Details still to add
 
-- [ ] Exact final dimensions, materials used, tools, and construction steps.
+- [ ] Exact final dimensions, material quantities, tools, and detailed construction steps.
 - [ ] Which planning tools influenced the final bridge.
 - [ ] Specific changes that strengthened the base.
 - [ ] Original paper drawings alongside their matching cleaned-up blueprints.
-- [ ] Confirmed photo captions and any future testing-video descriptions.
-- [ ] Measured test results and post-test reflections.
+- [ ] Official inspection record, score, penalties, and placing if available.
 
-## Media ordering
+## Design credits and next year
 
-The original uploaded copies have no readable capture dates in the source outline. Filename sequence is used as an approximate order; upload dates are not construction dates. No exact build day is assigned. The gallery and media folder contain 19 unique photos. Six byte-identical duplicate uploads were consolidated without removing unique photos. The two earlier recordings are not published; the Videos page is reserved for future testing footage.
+I drew the final design and built the bridge. ChatGPT helped with research, some measurements, and clearer blueprints from my drawings; I estimate that help at about 30%. I reviewed the suggestions myself.
 
-## Next year
-
-I want to start earlier, obtain extra materials for experiments, compare joint strength and member sizes, and use physical testing to improve strength relative to weight.
+Next year, I want to start earlier, obtain extra materials for experiments, and compare joint strength, member sizes, string anchors, and tensioning methods through physical tests.
 
 [All projects](../../README.md) · [Project home](README.md)

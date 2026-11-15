@@ -11,7 +11,7 @@ Choose a project below for the story, media, costs, and results. My [personal po
 | Project | Focus | Status |
 | --- | --- | --- |
 | [Eclipson Vortex RC Airplane](projects/rc-airplane/README.md) | A 3D-printed airplane build, from printing and assembly to electronics and flight preparation. | Paused · target: end of summer 2027 |
-| [MoDOT Bridge — 2026](projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
+| [MoDOT Bridge — 2026](projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Tested · 13.2 lb supported at 28.65 g |
 | [Custom PC Build](projects/custom-pc/README.md) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
 | [FTC Robotics — Team 3665](projects/ftc-robotics/README.md) | Programming, CAD, and custom-part production for the LEOPOLD Gear Heads. | Ongoing team work |
 | [Portable Workshop Design](projects/portable-workshop/README.md) | My CAD design for a portable workshop with an open workspace and a sliding-door office. | Design in progress |
