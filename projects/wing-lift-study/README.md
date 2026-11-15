@@ -31,6 +31,8 @@ I would like to revisit the question with a small wind tunnel, interchangeable w
 
 [Small wind tunnel concept](../project-ideas/README.md#small-wind-tunnel)
 
+I'm also considering [returning to the SEMO science fair during my junior and senior years](../semo-science-fair-plans/README.md). Wing testing is one possibility, but I may choose rocketry, Non-Trivial research, another project, or a new question.
+
 ## Further reading
 
 These are background resources for readers, not a reconstructed bibliography of the original project.

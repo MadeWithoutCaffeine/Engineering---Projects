@@ -16,6 +16,7 @@ Choose a project below for the story, media, costs, and results. My [personal po
 | [FTC Robotics — Team 3665](projects/ftc-robotics/README.md) | Programming, CAD, and custom-part production for the LEOPOLD Gear Heads. | Ongoing team work |
 | [Portable Workshop Design](projects/portable-workshop/README.md) | My CAD design for a portable workshop with an open workspace and a sliding-door office. | Design in progress |
 | [Airplane Wing Shape and Lift](projects/wing-lift-study/README.md) | An eighth-grade science fair investigation into wing shape and lift. | Completed science fair project |
+| [American Rocketry Challenge](projects/american-rocketry-challenge/README.md) | A three-student rocketry project developing competition ideas with our engineering instructor. | Early design and planning |
 
 ## Programming projects
 
@@ -29,8 +30,10 @@ Choose a project below for the story, media, costs, and results. My [personal po
 
 ## Planned projects
 
-| Collection | Focus | Status |
+| Project or collection | Focus | Status |
 | --- | --- | --- |
+| [Non-Trivial — Research Plans](projects/non-trivial-research/README.md) | My application, possible research directions, and plans to collaborate with a friend. | Applying · acceptance and topic undecided |
+| [SEMO Science Fair — Future Research](projects/semo-science-fair-plans/README.md) | Possible junior- and senior-year research entries, with a topic still to choose. | Considering junior- and senior-year entries · topic undecided |
 | [Project Ideas and Planning](projects/project-ideas/README.md) | Ideas for aircraft, rocketry, structures, photography, filament drying, and target shooting. | Rough concepts |
 
 ## How the projects are organized

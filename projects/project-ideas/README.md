@@ -1,6 +1,6 @@
 # Project Ideas and Planning
 
-[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Filament dryer](#filament-dryer) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Research plans](#research-and-competition-plans) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Filament dryer](#filament-dryer) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/MadeWithoutCaffeine/Michael-Polanczyk-Portfolio)
 
 Ideas I want to keep track of and develop as I have the time, tools, and budget.
 
@@ -16,6 +16,7 @@ Ideas I want to keep track of and develop as I have the time, tools, and budget.
 
 | Idea | What I want to explore |
 | --- | --- |
+| [Research and competition plans](#research-and-competition-plans) | Non-Trivial, team rocketry, and possible SEMO science fair research. |
 | [Small wind tunnel](#small-wind-tunnel) | Revisit my science fair wing experiment with the skills and tools I have gained since then. |
 | [Lightweight structure testing](#lightweight-structure-testing) | Compare how different shapes and construction choices affect strength and weight. |
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
@@ -27,6 +28,18 @@ Ideas I want to keep track of and develop as I have the time, tools, and budget.
 ## Background
 
 I want to use future projects to build on earlier work and try ideas that connect my different interests. These notes describe possible directions; parts, budgets, dimensions, and any suggested timelines remain preliminary.
+
+## Research and competition plans
+
+I'm applying to Non-Trivial and have a few possible research directions in mind, but I haven't chosen one. A friend is applying too, and we plan to help whichever of us gets accepted. I want to choose the question after I know whether I have that opportunity.
+
+Two classmates and I are also developing ideas for the American Rocketry Challenge with our engineering instructor. That work has started at the design and discussion stage.
+
+I'm considering returning to the SEMO science fair during both my junior and senior years. I might use a question from Non-Trivial research, rocketry, aircraft design, another project, or something new. I haven't settled on a topic or decided which work would be suitable.
+
+- [Non-Trivial research plans](../non-trivial-research/README.md)
+- [American Rocketry Challenge](../american-rocketry-challenge/README.md)
+- [SEMO science fair plans](../semo-science-fair-plans/README.md)
 
 ## Small wind tunnel
 

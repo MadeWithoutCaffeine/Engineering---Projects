@@ -6,6 +6,8 @@ I want to get more involved in rocketry and eventually earn my Level 1 certifica
 
 One of my friends is also interested in rocketry and has already launched quite a few rockets. I know I can turn to him for help or questions as I get started.
 
+I'm also working with two classmates and our engineering instructor on [American Rocketry Challenge ideas](../american-rocketry-challenge/README.md). That team project is separate from earning a personal high-power certification.
+
 ## At a glance
 
 | Field | Notes |
